@@ -1,0 +1,23 @@
+body {
+    place-content: center;
+    font-family: 'Libre Baskerville', serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    place-content: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.Wha {
+    
+    width: 50%;
+    border: 5px solid white;
+}
+
+.title {
+    text-transform: uppercase;
+}
